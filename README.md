@@ -2,6 +2,6 @@
 
 DESC
 
-# Canonical link
+## Canonical link
 
 https://git.knowbl.co/dev/style-guide
